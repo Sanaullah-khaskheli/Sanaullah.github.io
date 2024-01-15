@@ -16,7 +16,7 @@ I'm a passionate Electrical Engineer with a specialization in electronics. I gra
     - Experimentation & Testing
     - Documentation
 
-- **Robotics and AI Instructor | Previous Company Name**
+- **Robotics and AI Instructor | Sukkur IBA University**
   - *March 7, 2022 - September 6, 2022*
   - As a Robotics and AI Instructor, I:
     - Conducted classes on Robotics and Artificial Intelligence
