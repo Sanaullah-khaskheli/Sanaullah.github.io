@@ -50,6 +50,10 @@ I'm a passionate Electrical Engineer with a specialization in electronics. I gra
   - *Issued by Coursera.org authorized by University of Colorado*
   - *Date: March 2020*
  
+- [![Social Psychology Certificate](assets/Social Psychology Certificate_page-0001.jpg)](link_to_certificate)
+  - *Issued by Coursera.org authorized by University of Wesleyan*
+  - *Date: May 2020*
+ 
 
 
 ### 🌱 Always Learning
