@@ -1,6 +1,14 @@
-## Hi there! 👋 I'm Sanaullah
+# 🚀 From Electrical Engineering to AI & Robotics – My Journey 
 
-I'm a passionate Electrical Engineer with a specialization in electronics. I graduated from Sukkur Iba University with a degree in Electrical Engineering. My love for technology extends to the exciting realms of Artificial Intelligence and Robotics.
+
+
+**Hi there! 👋 I'm Sanaullah**, a passionate **Master of Science in Computer Science** student specializing in **Artificial Intelligence**. My journey into AI and robotics began with an Electrical Engineering degree from Sukkur IBA University, where I developed a strong foundation in embedded systems and automation.
+
+After graduating, I stepped into academia as a Robotics and AI Instructor for vocational training courses. This role sparked my curiosity about intelligent systems and their real-world applications. However, two key experiences fueled my transition into Computer Science:
+
+- **📌 Teaching Vocational Courses in Robotics & AI –** While instructing students, I realized the immense potential of AI in shaping the future of automation, which deepened my interest in machine learning and intelligent systems.
+- **📌 Research Associate at Sukkur IBA University –** My role in developing an **AI-based Flood Alert Chatbot** introduced me to real-world AI applications, where I explored **natural language processing (NLP), machine learning, and data-driven decision-making**.
+
 
 ### 🎓 Education
 - **Master of Science in Computer Science**
