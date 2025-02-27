@@ -7,7 +7,8 @@
 After graduating, I stepped into academia as a Robotics and AI Instructor for vocational training courses. This role sparked my curiosity about intelligent systems and their real-world applications. However, two key experiences fueled my transition into Computer Science:
 
 - **📌 Teaching Vocational Courses in Robotics & AI –** While instructing students, I realized the immense potential of AI in shaping the future of automation, which deepened my interest in machine learning and intelligent systems.
-- **📌 Research Associate at Sukkur IBA University –** My role in developing an **AI-based Flood Alert Chatbot** introduced me to real-world AI applications, where I explored **natural language processing (NLP), machine learning, and data-driven decision-making**.
+  
+- **📌 Research Associate at Sukkur IBA University –** My role as a research associate on an **AI-based Flood Alert Chatbot** introduced me to real-world AI applications, where I explored **natural language processing (NLP), machine learning, and data-driven decision-making**.
 
 
 ### 🎓 Education
@@ -82,3 +83,9 @@ I thrive on being an enthusiastic learner, and I'm currently exploring the fasci
 Feel free to explore my repositories and connect with me. I'm always open to collaborations, discussions, and learning from the amazing GitHub community.
 
 Happy coding! 🚀
+
+### 🚀 Interests & Future Goals
+I am particularly fascinated by:
+**💡 AI-driven automation**
+**🤖 Robotics & intelligent systems**
+**📊 Machine learning applications in real-world challenges**
