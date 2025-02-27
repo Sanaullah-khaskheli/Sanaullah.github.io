@@ -76,16 +76,16 @@ After graduating, I stepped into academia as a Robotics and AI Instructor for vo
  
 
 
-### 🌱 Always Learning
-I thrive on being an enthusiastic learner, and I'm currently exploring the fascinating worlds of AI and robotics. My curiosity drives me to stay updated on the latest advancements in these fields.
+### 🚀 Interests & Future Goals
+I am particularly fascinated by:
+- **💡 AI-driven automation**
+- **🤖 Robotics & intelligent systems**
+- **📊 Machine learning applications in real-world challenges**
+
 
 ### 🚀 Let's Connect
 Feel free to explore my repositories and connect with me. I'm always open to collaborations, discussions, and learning from the amazing GitHub community.
 
 Happy coding! 🚀
 
-### 🚀 Interests & Future Goals
-I am particularly fascinated by:
-**💡 AI-driven automation**
-**🤖 Robotics & intelligent systems**
-**📊 Machine learning applications in real-world challenges**
+
