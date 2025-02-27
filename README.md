@@ -3,8 +3,19 @@
 I'm a passionate Electrical Engineer with a specialization in electronics. I graduated from Sukkur Iba University with a degree in Electrical Engineering. My love for technology extends to the exciting realms of Artificial Intelligence and Robotics.
 
 ### 🎓 Education
+- **Master of Science in Computer Science**
+  - *Sukkur Iba University*
+  - **Major Subjects**
+  - *NLP*
+  - *AML*
+  - 
 - **Bachelor of Electrical Engineering**
   - *Sukkur Iba University*
+  - **Major Subjects**
+  - *Fundamental of Robotics*
+  - *Introduction to Artificial Intelligence*
+  - *Digital System Design*
+  - *Programming Logic Control*
 
 ### 👨‍💻 Professional Experience
 - **Research Associate | Sukkur IBA University**
