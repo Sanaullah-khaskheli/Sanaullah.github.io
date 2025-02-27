@@ -8,7 +8,7 @@ I'm a passionate Electrical Engineer with a specialization in electronics. I gra
   - **Major Subjects**
   - *NLP*
   - *AML*
-  - 
+  
 - **Bachelor of Electrical Engineering**
   - *Sukkur Iba University*
   - **Major Subjects**
