@@ -1,7 +1,12 @@
 title: Sanaullah Khaskheli
-logo: assets/IMG_20210418_155026.jpg
-description: AI Enthusiastic 
-#show_download: true
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+description: Electrical Engineer → AI & Robotics
+author: Sanaullah Khaskheli
+
+theme: minima
+
+header_pages:
+  - index.md
+
+minima:
+  social_links:
+    github: sanaullah-khaskheli
