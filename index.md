@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+<nav>
+- [Education](#education)
+- [Skills](#skills)
+- [Experience](#experience)
+- [Projects](#projects)
+- [Contact](#contact)
+</nav>
+
 # 🚀 From Electrical Engineering to AI & Robotics – My Journey 
 
 
