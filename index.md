@@ -1,15 +1,8 @@
 ---
-layout: default
+title: "From Electrical Engineering to AI & Robotics"
+layout: single
+permalink: /
 ---
-
-
-<nav>
-- [Education](#education)
-- [Skills](#skills)
-- [Experience](#experience)
-- [Projects](#projects)
-- [Contact](#contact)
-</nav>
 
 # 🚀 From Electrical Engineering to AI & Robotics – My Journey 
 
@@ -24,7 +17,7 @@ After graduating, I stepped into academia as a Robotics and AI Instructor for vo
 - **📌 Research Associate at Sukkur IBA University –** My role as a research associate on an **AI-based Flood Alert Chatbot** introduced me to real-world AI applications, where I explored **natural language processing (NLP), machine learning, and data-driven decision-making**.
 
 
-### 🎓 Education
+## 🎓 Education
 - **Master of Science in Computer Science**
   - *Sukkur Iba University*
   - **Major Subjects**
@@ -41,7 +34,7 @@ After graduating, I stepped into academia as a Robotics and AI Instructor for vo
   - *Programming Logic Control*
   - *Embedded System*
 
-### 👨‍💻 Professional Experience
+## 👨‍💻 Professional Experience
 - **Visiting Faculty at Department of Computer System Engineering**
   - *Jan 2026 - Present*
   - As a VF, I am teaching:
@@ -76,14 +69,14 @@ After graduating, I stepped into academia as a Robotics and AI Instructor for vo
     - Mentored and guided students in practical projects
     - Contributed to the development of educational materials
    
-### Skills
+## Skills
   - *Deep Learning*
   - *Generative AI and Prompt Engineering*
   - *Agentic AI*
   - *Robot Operating System (ROS)*
 
 
-### 🏆 Certificates
+## 🏆 Certificates
 - [![AI For Everyone Certificate](assets/AI Certificate_page-0001.jpg)](link_to_certificate)
   - *Issued by Coursera.org, authorised by deeplearning.ai*
   - *Date: March 2022*
@@ -115,14 +108,14 @@ After graduating, I stepped into academia as a Robotics and AI Instructor for vo
  
 
 
-### 🚀 Interests & Future Goals
+## 🚀 Interests & Future Goals
 I am particularly fascinated by:
 - **💡 AI-driven automation**
 - **🤖 Robotics & intelligent systems**
 - **📊 Machine learning applications in real-world challenges**
 
 
-### 🚀 Let's Connect
+## 🚀 Let's Connect
 Feel free to explore my repositories and connect with me. I'm always open to collaborations, discussions, and learning from the amazing GitHub community.
 
 Happy coding! 🚀
