@@ -1,11 +1,13 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Education"
-    url: "#education"
-  - title: "Skills"
-    url: "#skills"
+    url: /education/
   - title: "Experience"
-    url: "#experience"
-  - title: "Projects"
-    url: "#projects"
+    url: /experience/
+  - title: "Skills"
+    url: /skills/
+  - title: "Certificates"
+    url: /certificates/
   - title: "Contact"
-    url: "#contact"
+    url: /contact/
