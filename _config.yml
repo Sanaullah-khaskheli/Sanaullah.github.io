@@ -12,7 +12,7 @@ plugins:
 
 author:
   name: Sanaullah Khaskheli
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/profile.jpg"
   bio: "Electrical Engineer turned AI & Robotics Researcher"
   location: Pakistan
   links:
