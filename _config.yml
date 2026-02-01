@@ -1,12 +1,39 @@
 title: Sanaullah Khaskheli
+name: Sanaullah Khaskheli
 description: Electrical Engineer → AI & Robotics
-author: Sanaullah Khaskheli
+url: https://sanaullah-khaskheli.github.io
+baseurl: ""
 
-theme: minima
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
-header_pages:
-  - index.md
+plugins:
+  - jekyll-include-cache
 
-minima:
-  social_links:
-    github: sanaullah-khaskheli
+author:
+  name: Sanaullah Khaskheli
+  avatar: "/assets/images/profile.jpg"
+  bio: "Electrical Engineer turned AI & Robotics Researcher"
+  location: Pakistan
+  links:
+    - label: GitHub
+      icon: fab fa-github
+      url: https://github.com/sanaullahkhaskheli
+    - label: Email
+      icon: fas fa-envelope
+      url: mailto:your@email.com
+
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "Education"
+      url: /education/
+    - title: "Experience"
+      url: /experience/
+    - title: "Skills"
+      url: /skills/
+    - title: "Certificates"
+      url: /certificates/
+    - title: "Contact"
+      url: /contact/
