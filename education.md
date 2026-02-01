@@ -4,17 +4,20 @@ title: "Education"
 permalink: /education/
 ---
 
-## 🎓 Education
+### 🎓 Education
 
-### Master of Science in Computer Science (AI)
-**Sukkur IBA University**
-- Advanced NLP
-- Advanced Machine Learning
-- Advanced Computer Vision
-
-### Bachelor of Electrical Engineering
-**Sukkur IBA University**
-- Robotics
-- Artificial Intelligence
-- Embedded Systems
-- Digital System Design
+- **Master of Science in Computer Science**
+  - *Sukkur Iba University*
+  - **Major Subjects**
+  - *Advanced Natural Language Processing*
+  - *Advance Machine Learning*
+  - *Advance Computer Vision*
+  
+- **Bachelor of Electrical Engineering**
+  - *Sukkur Iba University*
+  - **Major Subjects**
+  - *Fundamentals of Robotics*
+  - *Introduction to Artificial Intelligence*
+  - *Digital System Design*
+  - *Programming Logic Control*
+  - *Embedded System*
